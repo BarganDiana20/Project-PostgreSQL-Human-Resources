@@ -1,4 +1,4 @@
-# Project-SQL: Employee Payroll and Human Resources Management Database 
+# Project-PostgreSQL: Employee Payroll and Human Resources Management Database 
 
 This database was designed to manage employee information, payroll, attendance, leaves, allowances, deductions, and contributions. It supports HR operations by storing detailed employee records, including employment contracts, timesheets, leave history, and compensation data. The database enables the generation of various reports and analyses to facilitate payroll processing, leave tracking, and contribution monitoring.
 
